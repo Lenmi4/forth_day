@@ -12,3 +12,6 @@ print(c)
 print('Новая ветка от master')
 
 print('Новая ветка от master')
+
+c = b + a
+print(c)
