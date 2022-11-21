@@ -8,6 +8,7 @@ for d in range(int(input())):
     v += i
     print(v)
 
+print('New ficha 2 out ficha 1')
 
 x = int(input())
 c = []
