@@ -8,6 +8,7 @@ for d in range(int(input())):
     v += i
     print(v)
 
+
 x = int(input())
 c = []
 for i in range(x):
