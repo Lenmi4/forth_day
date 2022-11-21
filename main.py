@@ -3,6 +3,11 @@ b = a + 2
 print(b)
 print(a + b)
 
+for d in range(int(input())):
+    v = []
+    v += i
+    print(v)
+
 x = int(input())
 c = []
 for i in range(x):
