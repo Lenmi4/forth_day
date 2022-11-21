@@ -9,7 +9,7 @@ for d in range(int(input())):
     print(v)
 
 print('New ficha 2 out ficha 1')
-
+print('New ficha for ficah from ficha')
 x = int(input())
 c = []
 for i in range(x):
