@@ -8,7 +8,7 @@ c = []
 for i in range(x):
     c.append(i)
 print(c)
-print(c)
+print(c + a + b)
 
 print('Новая ветка от master')
 
